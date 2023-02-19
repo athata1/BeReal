@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='BeRealAssignment.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='BeRealAssignment.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Record it
